@@ -1,0 +1,917 @@
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79310
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.80460
+
+
+N_: [3, 8, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.81609
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 16, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.82759
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.11
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.12
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.12
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.13
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 6, 2]
+learnrate: 0.13
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 6, 2]
+learnrate: 0.13
+epochs: 5000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78161
+
+
+N_: [3, 6, 2]
+learnrate: 0.13
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.81609
+
+
+N_: [3, 6, 2]
+learnrate: 0.13
+epochs: 20000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 6, 2]
+learnrate: 0.13
+epochs: 30000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 6, 2]
+learnrate: 0.13
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 6, 2]
+learnrate: 0.15
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 6, 2]
+learnrate: 0.5
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79310
+
+
+N_: [3, 6, 2]
+learnrate: 0.05
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 4, 2]
+learnrate: 0.05
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 4, 2]
+learnrate: 0.2
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.77011
+
+
+N_: [3, 12, 2]
+learnrate: 0.3
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+N_: [3, 12, 2]
+learnrate: 0.2
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.2
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.3
+epochs: 200000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [3, 14, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 11, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 2, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78161
+
+
+N_: [3, 12, 2]
+learnrate: 0.11036328052997413
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 5, 2]
+learnrate: 0.18393052321646453
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 4, 2]
+learnrate: 0.18393052321646453
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 4, 2]
+learnrate: 0.14714441857317276
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78161
+
+
+N_: [3, 4, 2]
+learnrate: 0.2207166278597587
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78161
+
+
+N_: [3, 4, 2]
+learnrate: 0.18393052321646453
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78161
+
+
+N_: [3, 6, 2]
+learnrate: 0.18393052321646453
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78161
+
+
+N_: [3, 5, 2]
+learnrate: 0.18393052321646453
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 5, 2]
+learnrate: 0.18393880088328451
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [3, 5, 2]
+learnrate: 0.18393926073546352
+epochs: 200000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [3, 5, 2]
+learnrate: 0.01
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79310
+
+
+N_: [3, 5, 2]
+learnrate: 0.1
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 4, 2]
+learnrate: 0.5
+epochs: 1000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.77011
+
+
+N_: [3, 4, 2]
+learnrate: 0.5
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79310
+
+
+N_: [3, 4, 2]
+learnrate: 0.5
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 4, 2]
+learnrate: 0.5
+epochs: 500000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 4, 2]
+learnrate: 0.5
+epochs: 5000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.77011
+
+
+N_: [3, 4, 2]
+learnrate: 0.5
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79310
+
+
+N_: [3, 4, 2]
+learnrate: 0.4
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78161
+
+
+N_: [3, 6, 2]
+learnrate: 0.4
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 6, 2]
+learnrate: 0.5
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 6, 2]
+learnrate: 0.5
+epochs: 6000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 5, 2]
+learnrate: 0.18
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [3, 12, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.85057
+
+
+N_: [4, 6, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.87356
+
+
+N_: [4, 6, 2]
+learnrate: 0.3
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.87356
+
+
+N_: [4, 6, 2]
+learnrate: 0.2
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.87356
+
+
+N_: [4, 6, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [4, 12, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [4, 12, 2]
+learnrate: 0.2
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [4, 12, 2]
+learnrate: 0.3
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86207
+
+
+N_: [4, 5, 2]
+learnrate: 0.3
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.87356
+
+
+N_: [4, 4, 2]
+learnrate: 0.3
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79310
+
+
+N_: [4, 8, 2]
+learnrate: 0.3
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.87356
+
+
+N_: [4, 8, 2]
+learnrate: 0.4
+epochs: 50000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [4, 8, 2]
+learnrate: 0.3
+epochs: 10000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.87342
+
+
+N_: [4, 8, 2]
+learnrate: 0.3
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 100000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 20000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 20000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 20000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 20000
+Colunas: ['Tamanho', 'NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 20000
+Colunas: ['Output1', 'Output2', 'NumAmostra', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [4, 8, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['Output1', 'Output2', 'NumAmostra', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [5, 8, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['Output1', 'Output2', 'NumAmostra', 'Area', 'Delta', 'Tamanho', 'Referencia']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [5, 4, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['Output1', 'Output2', 'NumAmostra', 'Area', 'Delta', 'Tamanho', 'Referencia']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [4, 4, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho', 'Referencia']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [4, 4, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho', 'NumAmostra']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 50000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 5000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 1000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 0.62025
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 3000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 3000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 2, 2]
+learnrate: 0.1
+epochs: 3000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 0.62025
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 3000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 30000
+Colunas: ['Output1', 'Output2', 'Area', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 30000
+Colunas: ['Output1', 'Output2', 'Referencia', 'Delta', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [3, 12, 2]
+learnrate: 0.1
+epochs: 30000
+Colunas: ['Output1', 'Output2', 'Referencia', 'NumAmostra', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [5, 4, 2]
+learnrate: 0.1
+epochs: 30000
+Colunas: ['Output1', 'Output2', 'Delta', 'Area', 'Referencia', 'NumAmostra', 'Tamanho']
+A Acuracia da Predicao e de: 1.00000
+
+
+N_: [5, 4, 2]
+learnrate: 0.1
+epochs: 30000
+Colunas: ['Delta', 'Area', 'Referencia', 'NumAmostra', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.97468
+
+
+N_: [5, 4, 2]
+learnrate: 0.1
+epochs: 30000
+Colunas: ['Delta', 'Area', 'Referencia', 'NumAmostra', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.97468
+
+
+N_: [5, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Delta', 'Area', 'Referencia', 'NumAmostra', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.97468
+
+
+N_: [5, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Delta', 'Area', 'Referencia', 'NumAmostra', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.97468
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['NumAmostra', 'Delta', 'Area', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79747
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['NumAmostra', 'Delta', 'Area', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78481
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Delta', 'Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78481
+
+
+N_: [4, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Delta', 'Area', 'NumAmostra', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79747
+
+
+N_: [4, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Tamanho', 'Delta', 'Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78481
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Delta', 'Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [3, 4, 2]
+learnrate: 0.5
+epochs: 15000
+Colunas: ['Delta', 'Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Delta', 'Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78481
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79747
+
+
+N_: [2, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.81013
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.94937
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.95349
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['NumAmostra', 'Delta', 'Area', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.82558
+
+
+N_: [2, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['NumAmostra', 'Area', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.84884
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['NumAmostra', 'Area', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83721
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['NumAmostra', 'Area', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.95349
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['NumAmostra', 'Area', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.95349
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['NumAmostra', 'Area', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.94937
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Delta', 'Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.81013
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Delta', 'Area', 'NumAmostra', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Delta', 'NumAmostra', 'Area', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.86076
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['NumAmostra', 'Area', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.79747
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.78481
+
+
+N_: [4, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Delta', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.94937
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'Tamanho', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.97468
+
+
+N_: [5, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Delta', 'Area', 'Referencia', 'NumAmostra', 'Tamanho', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.87500
+
+
+N_: [5, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'Tamanho', 'Referencia', 'NumAmostra', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.97468
+
+
+N_: [5, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'Tamanho', 'Referencia', 'NumAmostra', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.97701
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Delta', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.83908
+
+
+N_: [3, 4, 2]
+learnrate: 0.3
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.95402
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 15000
+Colunas: ['Area', 'NumAmostra', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.95402
+
+
+N_: [3, 4, 2]
+learnrate: 0.1
+epochs: 10000
+Colunas: ['Area', 'NumAmostra', 'Referencia', 'Output1', 'Output2']
+A Acuracia da Predicao e de: 0.95402
+
+
+// Sim, eu rodei tudo isso ai, inclusive alguns se repetem porque sou burro e não me toquei
